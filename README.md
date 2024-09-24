@@ -6,7 +6,7 @@ Sample configuration for running Ansible containerized within Docker containers
 
 1. Clone or download this repository [Repository | GitLab
 
-2. Download Docker Desktop [App Tools - Android Developers](https://docs.docker.com/get-docker/)
+2. Install Docker Desktop [Get Docker](https://docs.docker.com/get-docker/)
 
 3. Ensure Docker engine is running
 
